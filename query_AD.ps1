@@ -1,0 +1,1 @@
+﻿Get-ADComputer -LDAPFilter "(Location=68*)"  -SearchBase 'OU="Disabled Must be Reimaged",OU="Disabled Computers",OU=MISCELLANEOUS,OU=Campbell,OU=Installations,DC=nase,DC=ds,DC=army,DC=mil'
