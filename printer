@@ -1,1 +1,1 @@
-rundll32.exe printui.dll printUIentry /in /n "EXAMPLE \\printserver.domain\printername"
+rundll32.exe printui.dll printUIentry /ga /z /n "EXAMPLE \\printserver.domain.dns.otherdns.com\printername"
